@@ -14,6 +14,7 @@ Photorealistic, AI-remade versions of **all 14,000 generated portraits** in Foot
 - Facepack friendly: you can still change any newgen's face the usual way (image in `graphics/faces` + `config.xml`). Your image takes priority over the mod.
 - With 14,000 faces generated automatically, a few mistakes may slip through (skin tone, hairstyle, odd detail).
 - Real players with official photos are unchanged.
+- People the game shows as a black silhouette (real database people without a photo) stay as silhouettes: the mod only replaces generated portraits.
 
 ## Download
 
@@ -52,6 +53,7 @@ Les **14 000 portraits générés** de Football Manager 27 (newgens, staff, entr
 - Compatible facepacks : vous pouvez toujours changer la tête d'un newgen par la méthode classique (`graphics/faces` + `config.xml`). Votre image passe avant celle du mod.
 - Avec 14 000 visages générés automatiquement, quelques erreurs peuvent se glisser.
 - Les vrais joueurs avec photo officielle ne changent pas.
+- Les personnes que le jeu affiche en silhouette noire (vraies personnes de la base sans photo) restent en silhouette : le mod ne remplace que les portraits générés.
 
 **Téléchargement :** le zip (~400 Mo) est dans les **[Releases](../../releases)**.
 
