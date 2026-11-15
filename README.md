@@ -4,6 +4,8 @@ Photorealistic, AI-remade versions of **all 14,000 generated portraits** in Foot
 
 🇫🇷 [Version française plus bas](#-version-française)
 
+> **🆕 V2.0 is out (14 Nov 2026)** – all 14,000 portraits regenerated with an identity lock, sharper images, cleaner cut-outs and hair fixes. Works with the FM27 release build. **[Download v2.0](https://github.com/amnesix-nt/FM27-Photorealistic-Faces/releases/tag/v2.0)**
+
 ![Overview](images/overview-en.png)
 
 ## What it does
@@ -18,7 +20,9 @@ Photorealistic, AI-remade versions of **all 14,000 generated portraits** in Foot
 
 ## Download
 
-Get the latest zip (~400 MB) from the **[Releases](../../releases)** page.
+Get the latest zip, **v2.0** (~540 MB): **[FM27-Photoreal-Faces-v2.0.zip](https://github.com/amnesix-nt/FM27-Photorealistic-Faces/releases/tag/v2.0)**. Older versions are on the [Releases](../../releases) page.
+
+Already on v1.0? No need to uninstall: just run the v2.0 installer, it replaces the old version.
 
 ## Install (about 2 minutes)
 
@@ -30,7 +34,7 @@ Get the latest zip (~400 MB) from the **[Releases](../../releases)** page.
 **After a Steam update:** Steam restores the original files, so just run `INSTALL.bat` again.
 **Uninstall:** run `UNINSTALL.bat` with FM closed and everything goes back to the original.
 
-Requirements: FM27 on PC (Steam), about 600 MB of free disk space.
+Requirements: FM27 on PC (Steam), about 1.2 GB of free disk space.
 
 ## How it works
 
@@ -46,6 +50,8 @@ Unofficial, free fan mod. Not affiliated with or endorsed by Sports Interactive 
 
 ![Présentation](images/overview-fr.png)
 
+> **🆕 La V2.0 est sortie (14/11/2026)** : les 14 000 portraits régénérés avec un verrou d'identité, images plus nettes, détourages plus propres, cheveux corrigés. Compatible avec la version finale de FM27. **[Télécharger la v2.0](https://github.com/amnesix-nt/FM27-Photorealistic-Faces/releases/tag/v2.0)**
+
 Les **14 000 portraits générés** de Football Manager 27 (newgens, staff, entraîneurs, agents…) refaits en photo réaliste par IA, en **256 px** au lieu de 128 px.
 
 - Chaque personne garde son teint, sa coiffure, sa couleur de cheveux et sa barbe.
@@ -55,7 +61,7 @@ Les **14 000 portraits générés** de Football Manager 27 (newgens, staff, entr
 - Les vrais joueurs avec photo officielle ne changent pas.
 - Les personnes que le jeu affiche en silhouette noire (vraies personnes de la base sans photo) restent en silhouette : le mod ne remplace que les portraits générés.
 
-**Téléchargement :** le zip (~400 Mo) est dans les **[Releases](../../releases)**.
+**Téléchargement :** la **v2.0** (~540 Mo) : **[FM27-Photoreal-Faces-v2.0.zip](https://github.com/amnesix-nt/FM27-Photorealistic-Faces/releases/tag/v2.0)**. Les anciennes versions sont dans les [Releases](../../releases). Vous aviez la v1.0 ? Pas besoin de la désinstaller : lancez l'installateur de la v2.0, il la remplace.
 
 **Installation :**
 1. Fermez FM27.
