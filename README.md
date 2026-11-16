@@ -41,7 +41,9 @@ Already on v1.0? No need to uninstall: just run the v2.0 installer, it replaces 
 **After a Steam update:** Steam restores the original files, so just run `INSTALL.bat` again.
 **Uninstall:** run `UNINSTALL.bat` with FM closed and everything goes back to the original.
 
-Requirements: FM27 on PC (Windows, Steam), about 1.2 GB of free disk space.
+Requirements: FM27 on PC (Windows), about 1.2 GB of free disk space. Works with the **Steam** version and, as confirmed by a player, the **Xbox Game Pass** version.
+
+**Game Pass / other versions:** if the installer can't find the game, it asks for the game folder. For Game Pass, enter `C:\XboxGames\Football Manager 27\Content` (adjust the drive if you installed it elsewhere).
 
 ## Known limitations
 
@@ -88,7 +90,9 @@ Les **14 000 portraits générés** de Football Manager 27 (newgens, staff, entr
 3. Dans les Préférences de FM27, cochez « Utilisez des images pré-générées des joueurs et du personnel plutôt que des images générées dynamiquement ».
 4. Redémarrez FM.
 
-Après une mise à jour Steam, relancez `INSTALLER.bat`. Pour désinstaller : `DESINSTALLER.bat` (FM fermé). Il faut FM27 sur PC (Windows, Steam) et environ 1,2 Go d'espace libre.
+Après une mise à jour Steam, relancez `INSTALLER.bat`. Pour désinstaller : `DESINSTALLER.bat` (FM fermé). Il faut FM27 sur PC (Windows) et environ 1,2 Go d'espace libre. Marche avec la version **Steam** et, d'après un joueur, la version **Xbox Game Pass**.
+
+**Game Pass / autres versions :** si l'installateur ne trouve pas le jeu, il demande son dossier. Pour le Game Pass, indiquez `C:\XboxGames\Football Manager 27\Content` (changez la lettre du lecteur si le jeu est ailleurs).
 
 **Limites connues :**
 - FM choisit le portrait **le plus proche** (sexe, origine, teint, coiffure, couleur de cheveux, barbe), pas un portrait exact. Une personne peut donc avoir un portrait un peu différent de son apparence 3D, par exemple des cheveux alors qu'elle est chauve.
