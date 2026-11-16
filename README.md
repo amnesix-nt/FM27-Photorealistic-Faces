@@ -4,7 +4,7 @@ Photorealistic, AI-remade versions of **all 14,000 generated portraits** in Foot
 
 🇫🇷 [Version française plus bas](#-version-française)
 
-> **🆕 V2.0 is out (14 Nov 2026).** All 14,000 portraits have been regenerated from scratch with an identity lock. **[Download v2.0](https://github.com/amnesix-nt/FM27-Photorealistic-Faces/releases/tag/v2.0)**
+> **🆕 V2.0 is out (14 Nov 2026).** All 14,000 portraits have been regenerated from scratch with an identity lock. **[Download v2.0](https://github.com/amnesix-nt/FM27-Photorealistic-Faces/releases/tag/v2.0.1)**
 
 ![Overview](images/overview-en.png)
 
@@ -27,9 +27,9 @@ Photorealistic, AI-remade versions of **all 14,000 generated portraits** in Foot
 
 ## Download
 
-Get the latest zip, **v2.0** (~540 MB): **[FM27-Photoreal-Faces-v2.0.zip](https://github.com/amnesix-nt/FM27-Photorealistic-Faces/releases/tag/v2.0)**. Older versions are on the [Releases](../../releases) page.
+Get the latest zip, **v2.0.1** (~540 MB, installer fix, same portraits as v2.0): **[FM27-Photoreal-Faces-v2.0.1.zip](https://github.com/amnesix-nt/FM27-Photorealistic-Faces/releases/tag/v2.0.1)**. Older versions are on the [Releases](../../releases) page.
 
-Already on v1.0? No need to uninstall: just run the v2.0 installer, it replaces the old version.
+Already on v1.0? No need to uninstall: just run the new installer, it replaces the old version.
 
 ## Install (about 2 minutes)
 
@@ -65,7 +65,7 @@ Unofficial, free fan mod. Not affiliated with or endorsed by Sports Interactive 
 
 ![Présentation](images/overview-fr.png)
 
-> **🆕 La V2.0 est sortie (14/11/2026).** Les 14 000 portraits ont tous été régénérés avec un verrou d'identité. **[Télécharger la v2.0](https://github.com/amnesix-nt/FM27-Photorealistic-Faces/releases/tag/v2.0)**
+> **🆕 La V2.0 est sortie (14/11/2026).** Les 14 000 portraits ont tous été régénérés avec un verrou d'identité. **[Télécharger la v2.0](https://github.com/amnesix-nt/FM27-Photorealistic-Faces/releases/tag/v2.0.1)**
 
 Les **14 000 portraits générés** de Football Manager 27 (newgens, staff, entraîneurs, agents…) refaits en photo réaliste par IA, en **256 px** au lieu de 128 px.
 
@@ -82,7 +82,7 @@ Les **14 000 portraits générés** de Football Manager 27 (newgens, staff, entr
 - **Cheveux corrigés :** franges, cheveux longs sur les épaules, et teintes vertes ou olive de la v1.0 supprimées.
 - **Contrôle qualité automatique :** chaque portrait est comparé à l'original pour repérer les ratés.
 
-**Téléchargement :** la **v2.0** (~540 Mo) : **[FM27-Photoreal-Faces-v2.0.zip](https://github.com/amnesix-nt/FM27-Photorealistic-Faces/releases/tag/v2.0)**. Les anciennes versions sont dans les [Releases](../../releases). Vous aviez la v1.0 ? Pas besoin de la désinstaller : lancez l'installateur de la v2.0, il la remplace.
+**Téléchargement :** la **v2.0.1** (~540 Mo, installateur corrigé, mêmes portraits que la v2.0) : **[FM27-Photoreal-Faces-v2.0.1.zip](https://github.com/amnesix-nt/FM27-Photorealistic-Faces/releases/tag/v2.0.1)**. Les anciennes versions sont dans les [Releases](../../releases). Vous aviez la v1.0 ? Pas besoin de la désinstaller : lancez le nouvel installateur, il la remplace.
 
 **Installation :**
 1. Fermez FM27.
